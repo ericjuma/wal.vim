@@ -11,7 +11,7 @@ if exists('syntax_on')
 endif
 
 " Colorscheme name
-let g:colors_name = 'theme'
+let g:colors_name = 'wal'
 
 " highlight groups {{{
 
